@@ -1,0 +1,8 @@
+[user]
+        email = damien@dam.io
+        name = Damien
+[pull]
+        rebase = true
+[core]
+        pager = diff-so-fancy | less --tabs=4 -RFX
+        editor = vi
